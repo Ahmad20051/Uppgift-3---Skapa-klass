@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 3 - Skapa klass", "Uppgift 3 - Skapa klass\Uppgift 3 - Skapa klass.csproj", "{EDB7CAD1-C725-4958-A3DF-D958AC5E85F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB7CAD1-C725-4958-A3DF-D958AC5E85F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB7CAD1-C725-4958-A3DF-D958AC5E85F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB7CAD1-C725-4958-A3DF-D958AC5E85F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB7CAD1-C725-4958-A3DF-D958AC5E85F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F82D64-B111-4EE3-B7BC-1898504D526A}
+	EndGlobalSection
+EndGlobal
